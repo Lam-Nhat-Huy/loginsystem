@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1>I love 3000</h1>
+    <h1>I love hhuydev</h1>
     <a href="./logout.php">log out</a>
 </body>
 
